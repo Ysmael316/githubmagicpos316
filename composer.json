@@ -1,0 +1,11 @@
+{
+    "require": {
+        "php": "^8.0.2",
+        "phpoffice/phpspreadsheet": "^1.19",
+        "dompdf/dompdf": "^2.0",
+        "ultramsg/whatsapp-php-sdk": "^2.0",
+        "phpmailer/phpmailer": "^6.9",
+        "greenter/lite": "^5.0",
+        "greenter/report": "^5.0"
+    }
+}
